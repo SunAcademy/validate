@@ -1,3 +1,3 @@
 # validate
 
-this is a repo from test ci 
+this is a repo from test ci .
